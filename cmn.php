@@ -6,6 +6,9 @@
 	<title>Document</title>
 </head>
 <body>
-	<?php echo " Met Như Cho "; ?>
+	<?php echo " Met Như Cho ";
+	echo "đi ăn đi t đói lắm rồi";
+	?>
+	
 </body>
 </html>
